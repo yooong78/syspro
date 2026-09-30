@@ -1,5 +1,5 @@
 struct student {
-   int id; 
-   char name[20]; 
-   short score; 
+    int id;
+    char name[20];
+    int score;
 };
